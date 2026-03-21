@@ -1,0 +1,22 @@
+# Compilation outputs
+*.exe
+*.o
+*.out
+*.dylib
+*.dll
+*.a
+
+# Local ide scopes
+.vscode/
+.idea/
+cmake-build-*/
+build/
+bin/
+
+# Dependency configurations 
+vcpkg_installed/
+.cache/
+
+# Runtime daemon outputs
+nova.log
+packet_dump_*.pcap
